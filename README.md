@@ -15,7 +15,7 @@ Let’s build a safer digital world, one commit at a time.
 
 
 🎓 Currently pursuing a **Master's in Cybersecurity** @ Universiti Malaya  
-💼 Former Lead, IT Infrastructure | Ex-Akamai | Sunway | Hartalega  
+💼 Lead, Network & Security | Ex-Akamai | Sunway | Hartalega  
 🛡️ Skilled in **Cybersecurity Defense**, **Network Security**, and **IT Infrastructure**  
 📍 Based in Malaysia | Open to global opportunities  
 
