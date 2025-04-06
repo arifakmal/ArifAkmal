@@ -1,5 +1,19 @@
 # Hi there, I'm Arif Akmal 👋
 
+A curious mind with a passion for cybersecurity, network defense, and all things infrastructure. Currently diving deep into cyber at Universiti Malaya, while bringing along years of real-world experience from roles in IT infrastructure and cloud operations (yep, I’ve been in the trenches).
+
+From configuring firewalls to decoding packet captures, I thrive on building secure, resilient systems. 
+I’ve worked with teams at Akamai, Sunway, and Hartalega — and now I’m translating that industry know-how into personal projects and open-source contributions.
+
+🔐 Defender at heart.
+
+🧠 Always learning.
+
+🧭 Guided by integrity and ethics — because security without trust means nothing.
+
+Let’s build a safer digital world, one commit at a time.
+
+
 🎓 Currently pursuing a **Master's in Cybersecurity** @ Universiti Malaya  
 💼 Former Lead, IT Infrastructure | Ex-Akamai | Sunway | Hartalega  
 🛡️ Skilled in **Cybersecurity Defense**, **Network Security**, and **IT Infrastructure**  
